@@ -1,4 +1,4 @@
-# BMI_calc_v2
+# BMI Calculator Ver. 2
 
 This is an improved BMI calculator with python.
 
